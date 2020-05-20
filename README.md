@@ -9,4 +9,4 @@ K-Nearest Neighbors (KNN) is one of the simplest algorithms used in Machine Lear
 4. Matplotlib
 
 ## Run Project:
-Simply download the project and run KNN file on jupyter notebook or any other tool.
+Simply download/clone the project and run KNN file on jupyter notebook or any other tool.
